@@ -27,4 +27,3 @@ dist-ssr
 .env
 
 #secrets
-src/firebase.js
